@@ -1,8 +1,7 @@
-JSON
 {
   "name": "bancar-webhook",
   "version": "1.0.0",
-  "description": "Webhook for Dialogflow ES banking bot.",
+  "description": "Webhook pentru Dialogflow Banking Bot.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
